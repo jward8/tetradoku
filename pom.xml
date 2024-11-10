@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                io.github.jward8.tetradoku.tetradoku/io.github.jward8.tetradoku.tetradoku.HelloApplication
+                                io.github.jward8.tetradoku.tetradoku/io.github.jward8.tetradoku.tetradoku.MainApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>

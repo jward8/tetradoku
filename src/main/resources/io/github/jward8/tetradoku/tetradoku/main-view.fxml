@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.VBox?>
+
+<?import javafx.scene.control.Button?>
+<VBox alignment="CENTER" spacing="10.0" xmlns:fx="http://javafx.com/fxml"
+      fx:controller="io.github.jward8.tetradoku.tetradoku.MainController">
+
+    <GridPane fx:id="gameGrid" hgap="5" vgap="5">
+
+    </GridPane>
+</VBox>
